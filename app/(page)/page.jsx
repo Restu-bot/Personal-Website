@@ -64,7 +64,7 @@ export default function Home() {
           </div>
         </div>
         <p className="text-xl absolute neon-glow text-white bottom-[3%] left-1/2 tranform -translate-x-1/2 -translate-y-1/2">
-          www.restuanomw.com
+          restuanomw
         </p>
       </div>
 
